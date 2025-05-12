@@ -1,4 +1,12 @@
 
+// const {Queue} = require('@datastructures-js/queue');
+/*
+ Queue is internally included in the solution file on leetcode.
+ When running the code on leetcode it should stay commented out. 
+ It is mentioned here just for information about the external library 
+ that is applied for this data structure.
+ */
+
 class Router {
 
     static #THERE_ARE_NO_PACKETS = new Array();
